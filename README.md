@@ -17,9 +17,10 @@ Add this to your `~/.config/yazi/keymap.toml`:
 on   = [ "C" ]
 run  = "plugin checkshasum"
 desc = "Check file vs clipboard sum"
+```
 
 OR
-
+```
 { on = [ "C" ], run = "plugin checkshasum", desc = "Check file vs clipboard sum" },
 ```
 
