@@ -1,6 +1,8 @@
 # checkshasum.yazi
 
-Execute `sha256sum` on the hovered file to check sum. 
+Compare `sha256sum` on the hovered file with `clipboard` content. 
+
+<img src="https://github.com/Good1Cheese/checkshasum.yazi/blob/assets/showcase.gif" alt="preview test" width="88%">
 
 ## Installation
 
