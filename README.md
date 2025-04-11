@@ -1,6 +1,6 @@
 # checkshasum.yazi
 
-Execute `sha256sum` on the selected files to check sum. 
+Execute `sha256sum` on the hovered file to check sum. 
 
 ## Installation
 
