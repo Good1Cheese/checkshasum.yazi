@@ -36,7 +36,7 @@ return {
 			result.content = "Check Sums are equal!"
 			result.level = "info"
 		else
-			result.content = "Check Sums are equal!"
+			result.content = "Check Sums NOT are equal!"
 			result.level = "error"
 		end
 
